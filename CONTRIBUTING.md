@@ -6,8 +6,8 @@ Thank you for your interest in contributing to this project! 🎉
 
 | Name | Register Number | GitHub |
 |------|----------------|--------|
-| **Dharshan S** | RA2411026050206 | [@dharshan](https://github.com/dharshan) |
-| **Ashwin M** | RA2411026050184 | [@ashwin](https://github.com/ashwin) |
+| **Dharshan S** | RA2411026050206 | [@dharshan020205](https://github.com/dharshan020205) |
+| **Ashwin M** | RA2411026050184 | [@ashwinmuthaiah](https://github.com/ashwinmuthaiah) |
 
 ---
 
@@ -22,8 +22,8 @@ Click the **Fork** button at the top-right corner of this repository to create y
 ### 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/<your-username>/AI_ProblemSolving_RA2411026050206 - RA2411026050184.git
-cd AI_ProblemSolving_RA2411026050206 - RA2411026050184
+git clone https://github.com/<your-username>/AI_ProblemSolving_RA2411026050206.git
+cd AI_ProblemSolving_RA2411026050206
 ```
 
 ### 3. Create a Branch
